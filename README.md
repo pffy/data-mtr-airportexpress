@@ -1,5 +1,7 @@
-# data-mtr-airportexpress
-Hong Kong MTR Airport Express Schedules, Effective 17 July 2022
+# Hong Kong MTR Airport Express Timetable
+
+  + Effective 17 July 2022
+  + Plain text files
 
 ## Weekdays Schedule
 
@@ -12,7 +14,7 @@ Item | Station | Filename
 5 | AsiaWorld-Expo | `expo1.txt`
 
 
-## Saturdays, Sundays, and Public Holidays
+## Saturdays, Sundays, and Public Holidays Schedule
 
 Item | Station | Filename
 :--: | :--: | :--:
